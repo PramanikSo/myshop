@@ -27,11 +27,15 @@ Order Details
 Product stock
 ![Screenshot 2024-07-25 115347](https://github.com/user-attachments/assets/ab30cd59-2846-4adc-b2eb-31b2ec256cab)
 
+
+
 Product update
 ![Screenshot 2024-07-25 115427](https://github.com/user-attachments/assets/792af282-97c2-4194-8dba-9b8b3747a8d2)
 
+
 Product Delete
 ![Screenshot 2024-07-25 115443](https://github.com/user-attachments/assets/f0d29b24-e71b-4d1c-aa2f-d5f07e6372c1)
+
 
 New Product Add
 ![Screenshot 2024-07-25 115454](https://github.com/user-attachments/assets/7d7de45c-926b-4672-a547-747e9ef41f03)
